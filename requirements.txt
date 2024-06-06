@@ -23,3 +23,6 @@ black
 pytest
 isort
 flake8
+
+
+black[jupyter]
