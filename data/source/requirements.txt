@@ -1,0 +1,25 @@
+pandas 
+numpy
+
+matplotlib
+seaborn
+plotly
+
+scikit-learn
+imbalanced-learn
+lightgbm
+# xgboost
+
+
+jupyter
+notebook
+jupyterlab
+nbconvert
+nbformat
+jupyter_contrib_nbextensions
+jupytext
+
+black 
+pytest
+isort
+flake8
