@@ -8,9 +8,9 @@ plotly
 scikit-learn
 imbalanced-learn
 lightgbm
-xgboost
+# xgboost
 
-
+missingno
 jupyter
 notebook
 jupyterlab
@@ -20,6 +20,9 @@ jupyter_contrib_nbextensions
 jupytext
 
 black 
-pytests
+pytest
 isort
 flake8
+
+
+black[jupyter]
